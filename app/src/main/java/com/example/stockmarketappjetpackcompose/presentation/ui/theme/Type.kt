@@ -1,4 +1,4 @@
-package com.example.stockmarketappjetpackcompose.ui.theme
+package com.example.stockmarketappjetpackcompose.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
